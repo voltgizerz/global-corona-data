@@ -4,7 +4,7 @@
   <img src="img/img.png")><br>
 </p>
 
-## Setup Bot
+## Setup
 
 - just run npm start and open http://localhost:3000
 
